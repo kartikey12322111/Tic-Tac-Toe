@@ -3,7 +3,7 @@
 A simple and interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**.  
 This project helps in understanding basic game logic, event handling, and DOM manipulation.
 
----
+-----
 
 ## 🎮 Features
 
@@ -13,7 +13,7 @@ This project helps in understanding basic game logic, event handling, and DOM ma
 - Game restart option
 - Simple and clean user interface
 
----
+-----
 
 ## 🛠️ Technologies Used
 
